@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AldinDandyA</string>
+    <string name="to">to</string>
+    <string name="subject">subject</string>
+    <string name="message">Pesan</string>
+    <string name="send">Send</string>
+</resources>
